@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Luizcarlosrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizcarlosrj&show_icons=true&theme=darkk&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizcarlosrj&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
  
  
@@ -13,6 +13,7 @@
   <img align="center" alt="LUIZ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LUIZ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LUIZ-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="LUIZ-PHP" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
 </div>
  
