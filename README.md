@@ -7,7 +7,7 @@ Eu sou Luiz Carlos , Me Conheca um pouco.
 <li> 💻 Estudando Analise e Desenvolvimento de Sistema </li> 
 <li> 🧠 Conhecimento  Software de Designer como Photoshop, CorelDraw,Illustrator,  InDesigne </li> 
 <li> 🚀 Pretendo estudar React Native </li> 
-<li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou estagiário </li> 
+<li> 👨🏿‍💻 Estou buscando oportunidades para desenvolvedor júnior ou estagiário </li> 
 <li> 🎮 Hobbies: música e jogos.</li> 
 </br>
 
