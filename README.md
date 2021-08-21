@@ -1,8 +1,6 @@
 ## Olá Seja Bem Vindo ao meu Github ! 
 
-Eu sou Luiz Carlos 
-
-## Sobre mim
+Eu sou Luiz Carlos , Me Conheca um pouco.
  
 <li> Curioso, comunicativo e criativo</li>
 <li> Tenho curso de Webd Designer , Tecnico de Informatica pelo Senai.</>
