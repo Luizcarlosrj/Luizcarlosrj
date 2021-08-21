@@ -1,4 +1,18 @@
-## Olá Seja Bem Vindo 
+## Olá Seja Bem Vindo ao meu Github ! 
+
+Eu sou Luiz Carlos 
+
+## Sobre mim
+ 
+<li> Curioso, comunicativo e criativo</li>
+<li> Tenho curso de Webd Designer , Tecnico de Informatica pelo Senai.</>
+<li> 💻 Estudando Analise e Desenvolvimento de Sistema </li> 
+<li> 🧠 Conhecimento  Software de Designer como Photoshop, CorelDraw,Illustrator,  InDesigne </li> 
+<li> 🚀 Pretendo estudar React Native </li> 
+<li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedora júnior ou estagiária </li> 
+<li> 🎮 Hobbies: música e jogos.</li> 
+</br>
+
  <div>
   <a href="https://github.com/Luizcarlosrj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizcarlosrj&show_icons=true&theme=darkk&include_all_commits=true&count_private=true"/>
